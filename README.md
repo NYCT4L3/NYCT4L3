@@ -4,7 +4,7 @@ Cybersecurity student focused on **offensive security and penetration testing**.
 
 ## 🔧 Projects
 
-### 🕵️ Cross-Layer Fingerprint Impersonation Detector *(in development)*
+### 🕵️ [Cross-Layer Fingerprint Impersonation Detector](https://github.com/NYCT4L3/cross-layer-fingerprint-impersonation-detector) *(in development)*
 Detects clients that fake their identity on the network. Instead of trusting a single signal, it extracts **JA4 (TLS)**, **JA4T (TCP)** and **JA4H (HTTP)** fingerprints from the *same flow* and checks whether they agree with each other. For example, a connection that looks like Chrome on Windows at the TLS layer but behaves like a Linux Python client at the TCP and HTTP layers gets flagged.
 
 - Flow-based analysis (an IP address is never treated as a device identity, so NAT and shared IPs are handled correctly)
@@ -13,7 +13,7 @@ Detects clients that fake their identity on the network. Instead of trusting a s
 - Audit logging, ground-truth labeling, and evaluation (accuracy, precision, recall, F1, confusion matrix)
 - Plain-language explanations of why a flow was flagged
 
-### 🔐 Secure Proof-of-Life + Digital Legacy System *(in development)*
+### 🔐 [Secure Proof-of-Life + Digital Legacy System](https://github.com/NYCT4L3/secure-proof-of-life) *(in development)*
 A security-focused application that confirms a user is still active through regular check-ins. If they stop responding, it moves through a grace period and trusted-contact warnings, then triggers a **Dead Man's Switch** that releases encrypted information to chosen recipients.
 
 - Encrypted digital vault with controlled, conditional release
