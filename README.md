@@ -26,7 +26,7 @@ A security-focused application that confirms a user is still active through regu
 A Python tool that turns spoken lab notes into structured Markdown journal entries (voice recording, then transcription, then organized notes), so my lab work and reasoning are always documented.
 
 ### 🚩 CTF Challenge Development
-Developing challenges for my university's upcoming CTF.
+Developed OSINT, Cryptography and Digital Forensics challenges for my university's CTF.
 
 ## 📚 What I'm studying
 Networking · Linux · Python · Web & application security · Network enumeration · Penetration testing · Windows & Active Directory · Cryptography · Cloud & containers
