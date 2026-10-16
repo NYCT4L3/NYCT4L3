@@ -25,8 +25,9 @@ A security-focused application that confirms a user is still active through regu
 ### 📝 Cyber Scribe
 A Python tool that turns spoken lab notes into structured Markdown journal entries (voice recording, then transcription, then organized notes), so my lab work and reasoning are always documented.
 
-### 🚩 CTF Challenge Development
-Developed OSINT, Cryptography and Digital Forensics challenges for my university's CTF.
+   ### 🚩 CTF Challenge Development
+   Designed and built five OSINT, forensics and crypto challenges for CTF 26' Fall Edition, run by Cyber Infinity Riphah at Riphah International University.
+   → [CTF-Challenges-2026](https://github.com/NYCT4L3/CTF-Challenges-2026): player files and writeups
 
 ## 📚 What I'm studying
 Networking · Linux · Python · Web & application security · Network enumeration · Penetration testing · Windows & Active Directory · Cryptography · Cloud & containers
@@ -38,4 +39,4 @@ Build a career in offensive security, develop tools that support penetration tes
 All experiments run in an isolated, authorized lab. I follow responsible, ethical practices.
 
 ## 📫 Connect
-- LinkedIn: *(coming soon)*
+- LinkedIn: (https://www.linkedin.com/in/zaeem-bilal-176875245/)
